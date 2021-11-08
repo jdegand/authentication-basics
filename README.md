@@ -41,4 +41,4 @@ Simple login/logout functionality from passport-local.
 - [Github](https://github.com/expressjs/express/blob/master/examples/ejs/index.js) - EJS setup
 - [Hey Node](https://heynode.com/blog/2020-04/salt-and-hash-passwords-bcrypt/) - Bcrypt salting and hashing
 - [Stack Overflow](https://stackoverflow.com/questions/48799894/trying-to-hash-a-password-using-bcrypt-inside-an-async-function) - Async and bcrypt
-- [Stack Overflow](https://stackoverflow.com/questions/67254721/how-to-prevent-user-from-going-back-with-browser-after-signup)
+- [Stack Overflow](https://stackoverflow.com/questions/67254721/how-to-prevent-user-from-going-back-with-browser-after-signup) - Prevent going back to login route
